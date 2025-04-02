@@ -991,6 +991,8 @@ require('lazy').setup({
         'vimdoc',
         'git_config',
         'git_rebase',
+        'gitattributes',
+        'gitcommit',
         'gitignore',
       },
       -- Autoinstall languages that are not installed
